@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kithiphum Thitanhopat</h1>
-<h3 align="center">A passionate Full Stack Developer from Thailand</h3>
+<h3 align="center">A Passionate Developer & Creator</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=500&lines=Hello+World;I+am+a+Developer;I+love+Coding)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kithiphumthitanhopat&label=Profile%20views&color=0e75b6&style=flat" alt="kithiphumthitanhopat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TkritpooM&label=Profile%20views&color=0e75b6&style=flat" alt="TkritpooM" /> </p>
 
-- 🔭 I’m currently working on **My Awesome Project**
+- 🔭 I’m currently working on **Any Project**
 
-- 🌱 I’m currently learning **Next.js and AI/ML**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -15,11 +16,11 @@
 
 - 📫 How to reach me **kithiphum@example.com**
 
-- ⚡ Fun fact **I love hiking and gaming**
+- ⚡ Fun fact **I love gaming and sleeping**
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
@@ -34,7 +35,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kithiphumthitanhopat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TkritpooM&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TkritpooM&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TkritpooM&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TkritpooM&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -48,7 +65,7 @@
   <a href="https://twitter.com/your-twitter" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-  <a href="https://github.com/kithiphumthitanhopat" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/TkritpooM" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
